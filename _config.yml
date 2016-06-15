@@ -1,0 +1,28 @@
+name: Dallas Sofa
+favicon: null
+layout_spectrum: 0.5434805527329445
+typography_spectrum: 0.8123629305046052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.0484661771915853
+  lightness: 0.991817022440955
+  saturation: 0.2760617870371789
+  rhythmicContrast: 0.39581371704116464
+purpose: []
