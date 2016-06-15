@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dallas Sofa]]></title>
         <description><![CDATA[Dallas Sofa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dallas-sofa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 00:29:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 15 Jun 2016 00:33:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dallas-sofa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to Dallas Sofa! </p>]]></description>
-            <link>undefinedwelcome-to-dallas-sofa/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d00ce2be-4344-486d-bbce-10f0d56396c2.png">]]></description>
+            <link>https://thegrid.ai/dallas-sofa/welcome-to-dallas-sofa/index.html</link>
             <guid isPermaLink="false">db8def0d-d4e4-4730-87fb-7be89222a8db</guid>
-            <pubDate>Wed, 15 Jun 2016 00:29:40 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2016 00:33:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
