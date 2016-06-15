@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Dallas Sofa!
-datePublished: '2016-06-15T00:33:09.989Z'
-dateModified: '2016-06-15T00:32:53.602Z'
+datePublished: '2016-06-15T00:38:00.874Z'
+dateModified: '2016-06-15T00:37:15.043Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-15-welcome-to-dallas-sofa.md
